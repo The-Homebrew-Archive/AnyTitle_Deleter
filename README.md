@@ -1,5 +1,5 @@
 # AnyTitle_Deleter
-An import of Tona's anytitle deleter
+An import of Tona's anytitle deleter.  THIS APPLICATION WAS MADE REDUNDANT BY AnyTitle Deleter MOD.  This app should only be used for last resorts.
  # tona's README
  AnyTitle Deleter 1.0
 by tona
